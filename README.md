@@ -3,4 +3,4 @@ Git
 <br>
 App
 
-## GIT APP version 1.0
+## GIT APP version 2.0
